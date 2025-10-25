@@ -16,6 +16,50 @@
     {
       "path": "assets/fonts/JetBrainsMono-SemiBold.ttf",
       "sha1": "c575ac3e7a32faee1a201ff4baf05596906ff3b2"
+    },
+    {
+      "path": "assets/html/_lib/_lib.amcharts.js",
+      "sha1": "8866ef0918c6ef3de5cf0a668ca0c08354f07243"
+    },
+    {
+      "path": "assets/html/_lib/_lib.amcharts.stock.js",
+      "sha1": "83388926a51b2530a6b4a30e4b1288bf81815552"
+    },
+    {
+      "path": "assets/html/_lib/_lib.amcharts.theme.animated.js",
+      "sha1": "d91bbe52fc7f48bc13942055b9c4960562ec7bc7"
+    },
+    {
+      "path": "assets/html/_lib/_lib.amcharts.theme.dark.js",
+      "sha1": "44b16f850b8684e563e4d16bffd6bf12d2dd6387"
+    },
+    {
+      "path": "assets/html/_lib/_lib.amcharts.xy.js",
+      "sha1": "8fd9a75288b6c7df257c7003491a579ba1cc8871"
+    },
+    {
+      "path": "assets/html/_lib/_lib.d3.js",
+      "sha1": "607e02087446eb2efadcbee253db3aca3d794a7b"
+    },
+    {
+      "path": "assets/html/_lib/_lib.d3.scale.js",
+      "sha1": "612489f878452956e070be4d51982118e70668ab"
+    },
+    {
+      "path": "assets/html/_lib/_lib.lodash.min.js",
+      "sha1": "2170f94fc434fd48c25c11312c019a6106533ae3"
+    },
+    {
+      "path": "assets/html/_lib/_lib.moment.min.js",
+      "sha1": "11a676a9c962f075a7573768b01ae6e2e8fd5b6b"
+    },
+    {
+      "path": "assets/html/_style/styles.css",
+      "sha1": "39bc7ebc407cd9c475b70a0216150dba87715a97"
+    },
+    {
+      "path": "assets/html/amcharts/initChart.html",
+      "sha1": "60adc1f41ae2e258b164ed63e23e34afb9fb3d8e"
     }
   ]
 }

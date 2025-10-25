@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0">
+  <title>Document</title>
+  <script src="./_lib.amcharts.js"></script>
+  <script src="./_lib.amcharts.xy.js"></script>
+  <script src="./_lib.amcharts.stock.js"></script>
+  <script src="./_lib.amcharts.theme.dark.js"></script>
+  <script src="./_lib.amcharts.theme.animated.js"></script>
+
+  <script src="./_lib.d3.js"></script>
+  <script src="./_lib.d3.scale.js"></script>
+  <script src="./_lib.moment.min.js"></script>
+  <script src="./_lib.lodash.min.js"></script>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+  <div id="chartDiv"></div>
+</body>
+
+<script>
+
+  am5.ready(_readyChart);
+
+  function _readyChart() {
+    window.ReactNativeWebView.postMessage(JSON.stringify({ eventType: 'readyChart' }));
+  }
+
+</script>
+
+</html>
