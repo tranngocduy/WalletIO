@@ -5,6 +5,7 @@ import { useStackNavigation } from '@/hooks/useNavigation';
 
 import { TextBase } from '@/components/TextBase';
 import { TouchableView } from '@/components/TouchableView';
+import { WebsocketProvider } from '@/components/WebsocketProvider';
 
 import { styles } from './styles';
 
@@ -25,6 +26,8 @@ export const Dashboard: React.FC<{}> = () => {
   return (
     <View style={styles.container}>
       <FlatList data={item} renderItem={_renderItem} keyExtractor={_keyExtractor} contentContainerStyle={styles.scroll} />
+
+      <WebsocketProvider />
     </View>
   )
 
