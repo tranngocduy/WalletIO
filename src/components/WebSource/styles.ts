@@ -11,7 +11,6 @@ export const styles = StyleSheet.create({
   },
   chart: {
     flexGrow: 1,
-    marginBottom: -19,
     backgroundColor: 'transparent'
   }
 });

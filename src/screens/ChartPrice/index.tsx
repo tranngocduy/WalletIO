@@ -9,7 +9,9 @@ export const ChartPrice: React.FC<{}> = () => {
 
   return (
     <View style={styles.container}>
-      <TradeViewChart />
+      <View style={{height: '70%'}}>
+        <TradeViewChart />
+      </View>
     </View>
   )
 
