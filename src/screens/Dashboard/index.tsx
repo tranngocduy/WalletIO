@@ -12,7 +12,7 @@ export const Dashboard: React.FC<{}> = () => {
 
   const { navigate } = useStackNavigation();
 
-  const item = [{ label: 'Biểu đồ', page: 'Chart' }];
+  const item = [{ label: 'Biểu đồ', page: 'ChartPrice' }];
 
   const _onPressPage = (page: any) => navigate(page);
 

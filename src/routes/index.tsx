@@ -4,6 +4,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator, NativeStackNavigationOptions } from '@react-navigation/native-stack';
 
 import { Dashboard } from '@/screens/Dashboard';
+import { ChartPrice } from '@/screens/ChartPrice';
 
 const Stack = createNativeStackNavigator();
 
@@ -13,6 +14,7 @@ const AppStack = () => {
   return (
     <Stack.Navigator screenOptions={stackOptions}>
       <Stack.Screen name='Dashboard' component={Dashboard} />
+      <Stack.Screen name='ChartPrice' component={ChartPrice} />
     </Stack.Navigator>
   )
 }

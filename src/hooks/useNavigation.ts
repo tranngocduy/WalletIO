@@ -2,7 +2,7 @@ import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { useNavigation, useIsFocused, useRoute, RouteProp, createNavigationContainerRef } from '@react-navigation/native';
 
 type RootStackParamList = {
-  Chart: undefined;
+  ChartPrice: undefined;
 }
 
 export const navigationRef = createNavigationContainerRef<RootStackParamList>();
