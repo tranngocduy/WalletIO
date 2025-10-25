@@ -3,7 +3,7 @@ import { View } from 'react-native';
 
 import { styles } from './styles';
 
-export const ChartPrice: React.FC<{}> = () => {
+export const TradeViewChart: React.FC<{}> = () => {
 
   return (
     <View style={styles.container}>

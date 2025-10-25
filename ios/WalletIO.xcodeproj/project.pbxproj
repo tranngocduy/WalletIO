@@ -7,26 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0089FCAE46B2462DB1302EC3 /* _lib.amcharts.stock.js in Resources */ = {isa = PBXBuildFile; fileRef = D7416A7920814A66ABA39A6A /* _lib.amcharts.stock.js */; };
 		0C80B921A6F3F58F76C31292 /* libPods-WalletIO.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-WalletIO.a */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		1BCACCD937F24D7DA50F8307 /* JetBrainsMono-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6BBF34A5022646D1B4D61D63 /* JetBrainsMono-Bold.ttf */; };
+		32762038767441A5BE3995A8 /* _lib.moment.min.js in Resources */ = {isa = PBXBuildFile; fileRef = 9E52B81E3C9142C597B7CD34 /* _lib.moment.min.js */; };
 		346A89C5BB9AAC02BEB09E89 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
-		6AC4E0AF3DA54D9194B9734F /* JetBrainsMono-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 537A2B5922B7468E946AEFE6 /* JetBrainsMono-SemiBold.ttf */; };
-		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
-		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		F31F666923874D898998521B /* JetBrainsMono-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5D4ACCE817D54F90AFF4D077 /* JetBrainsMono-Medium.ttf */; };
-		F39B278C11054EB3AD5CE6BC /* JetBrainsMono-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 27C05D78F3A44EE7A1B81ACC /* JetBrainsMono-Regular.ttf */; };
-		DD0C2FFCF040486387F6181D /* _lib.amcharts.js in Resources */ = {isa = PBXBuildFile; fileRef = F68A8C41A220450F8C75BF0C /* _lib.amcharts.js */; };
-		0089FCAE46B2462DB1302EC3 /* _lib.amcharts.stock.js in Resources */ = {isa = PBXBuildFile; fileRef = D7416A7920814A66ABA39A6A /* _lib.amcharts.stock.js */; };
-		B0E392855B3747F4A61B0A7B /* _lib.amcharts.theme.animated.js in Resources */ = {isa = PBXBuildFile; fileRef = 15758A9B981E4BC3BE11A065 /* _lib.amcharts.theme.animated.js */; };
+		429657602B5B4F6AA92D3A39 /* styles.css in Resources */ = {isa = PBXBuildFile; fileRef = 3A8472F4DEB34D078B6F69A6 /* styles.css */; };
 		4CE268F0902D4EB290AA6E92 /* _lib.amcharts.theme.dark.js in Resources */ = {isa = PBXBuildFile; fileRef = D7920058C6F2405D939FC4DE /* _lib.amcharts.theme.dark.js */; };
 		6A0D535C419E4003A91D4A94 /* _lib.amcharts.xy.js in Resources */ = {isa = PBXBuildFile; fileRef = 4D5BD866B0644D50845C6D58 /* _lib.amcharts.xy.js */; };
-		EF599A8D10FE448E84F6EFA9 /* _lib.d3.js in Resources */ = {isa = PBXBuildFile; fileRef = 9FF15A3AFAF44A6EBE39BAB5 /* _lib.d3.js */; };
+		6AC4E0AF3DA54D9194B9734F /* JetBrainsMono-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 537A2B5922B7468E946AEFE6 /* JetBrainsMono-SemiBold.ttf */; };
 		71A8DA1DD51B46E6B0CC0374 /* _lib.d3.scale.js in Resources */ = {isa = PBXBuildFile; fileRef = 9B0F7825C129443DB13DC449 /* _lib.d3.scale.js */; };
+		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
+		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		B0E392855B3747F4A61B0A7B /* _lib.amcharts.theme.animated.js in Resources */ = {isa = PBXBuildFile; fileRef = 15758A9B981E4BC3BE11A065 /* _lib.amcharts.theme.animated.js */; };
 		C4CF709E39BC43FC9DAC7C44 /* _lib.lodash.min.js in Resources */ = {isa = PBXBuildFile; fileRef = C1FF4CAB858143A0A4475EFD /* _lib.lodash.min.js */; };
-		32762038767441A5BE3995A8 /* _lib.moment.min.js in Resources */ = {isa = PBXBuildFile; fileRef = 9E52B81E3C9142C597B7CD34 /* _lib.moment.min.js */; };
-		429657602B5B4F6AA92D3A39 /* styles.css in Resources */ = {isa = PBXBuildFile; fileRef = 3A8472F4DEB34D078B6F69A6 /* styles.css */; };
 		CFE376D6AB4B47218C241E6C /* initChart.html in Resources */ = {isa = PBXBuildFile; fileRef = DB03EC2E0D1E45CEA8AB1BAF /* initChart.html */; };
+		DD0C2FFCF040486387F6181D /* _lib.amcharts.js in Resources */ = {isa = PBXBuildFile; fileRef = F68A8C41A220450F8C75BF0C /* _lib.amcharts.js */; };
+		EF599A8D10FE448E84F6EFA9 /* _lib.d3.js in Resources */ = {isa = PBXBuildFile; fileRef = 9FF15A3AFAF44A6EBE39BAB5 /* _lib.d3.js */; };
+		F31F666923874D898998521B /* JetBrainsMono-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5D4ACCE817D54F90AFF4D077 /* JetBrainsMono-Medium.ttf */; };
+		F39B278C11054EB3AD5CE6BC /* JetBrainsMono-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 27C05D78F3A44EE7A1B81ACC /* JetBrainsMono-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,8 +34,11 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = WalletIO/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = WalletIO/Info.plist; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = WalletIO/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		15758A9B981E4BC3BE11A065 /* _lib.amcharts.theme.animated.js */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = _lib.amcharts.theme.animated.js; path = ../assets/html/_lib/_lib.amcharts.theme.animated.js; sourceTree = "<group>"; };
 		27C05D78F3A44EE7A1B81ACC /* JetBrainsMono-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "JetBrainsMono-Regular.ttf"; path = "../assets/fonts/JetBrainsMono-Regular.ttf"; sourceTree = "<group>"; };
+		3A8472F4DEB34D078B6F69A6 /* styles.css */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = styles.css; path = ../assets/html/_style/styles.css; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-WalletIO.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WalletIO.debug.xcconfig"; path = "Target Support Files/Pods-WalletIO/Pods-WalletIO.debug.xcconfig"; sourceTree = "<group>"; };
+		4D5BD866B0644D50845C6D58 /* _lib.amcharts.xy.js */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = _lib.amcharts.xy.js; path = ../assets/html/_lib/_lib.amcharts.xy.js; sourceTree = "<group>"; };
 		537A2B5922B7468E946AEFE6 /* JetBrainsMono-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "JetBrainsMono-SemiBold.ttf"; path = "../assets/fonts/JetBrainsMono-SemiBold.ttf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-WalletIO.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WalletIO.release.xcconfig"; path = "Target Support Files/Pods-WalletIO/Pods-WalletIO.release.xcconfig"; sourceTree = "<group>"; };
 		5D4ACCE817D54F90AFF4D077 /* JetBrainsMono-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "JetBrainsMono-Medium.ttf"; path = "../assets/fonts/JetBrainsMono-Medium.ttf"; sourceTree = "<group>"; };
@@ -43,18 +46,15 @@
 		6BBF34A5022646D1B4D61D63 /* JetBrainsMono-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "JetBrainsMono-Bold.ttf"; path = "../assets/fonts/JetBrainsMono-Bold.ttf"; sourceTree = "<group>"; };
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = WalletIO/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = WalletIO/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		9B0F7825C129443DB13DC449 /* _lib.d3.scale.js */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = _lib.d3.scale.js; path = ../assets/html/_lib/_lib.d3.scale.js; sourceTree = "<group>"; };
+		9E52B81E3C9142C597B7CD34 /* _lib.moment.min.js */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = _lib.moment.min.js; path = ../assets/html/_lib/_lib.moment.min.js; sourceTree = "<group>"; };
+		9FF15A3AFAF44A6EBE39BAB5 /* _lib.d3.js */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = _lib.d3.js; path = ../assets/html/_lib/_lib.d3.js; sourceTree = "<group>"; };
+		C1FF4CAB858143A0A4475EFD /* _lib.lodash.min.js */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = _lib.lodash.min.js; path = ../assets/html/_lib/_lib.lodash.min.js; sourceTree = "<group>"; };
+		D7416A7920814A66ABA39A6A /* _lib.amcharts.stock.js */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = _lib.amcharts.stock.js; path = ../assets/html/_lib/_lib.amcharts.stock.js; sourceTree = "<group>"; };
+		D7920058C6F2405D939FC4DE /* _lib.amcharts.theme.dark.js */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = _lib.amcharts.theme.dark.js; path = ../assets/html/_lib/_lib.amcharts.theme.dark.js; sourceTree = "<group>"; };
+		DB03EC2E0D1E45CEA8AB1BAF /* initChart.html */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = initChart.html; path = ../assets/html/amcharts/initChart.html; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		F68A8C41A220450F8C75BF0C /* _lib.amcharts.js */ = {isa = PBXFileReference; name = "_lib.amcharts.js"; path = "../assets/html/_lib/_lib.amcharts.js"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		D7416A7920814A66ABA39A6A /* _lib.amcharts.stock.js */ = {isa = PBXFileReference; name = "_lib.amcharts.stock.js"; path = "../assets/html/_lib/_lib.amcharts.stock.js"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		15758A9B981E4BC3BE11A065 /* _lib.amcharts.theme.animated.js */ = {isa = PBXFileReference; name = "_lib.amcharts.theme.animated.js"; path = "../assets/html/_lib/_lib.amcharts.theme.animated.js"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		D7920058C6F2405D939FC4DE /* _lib.amcharts.theme.dark.js */ = {isa = PBXFileReference; name = "_lib.amcharts.theme.dark.js"; path = "../assets/html/_lib/_lib.amcharts.theme.dark.js"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		4D5BD866B0644D50845C6D58 /* _lib.amcharts.xy.js */ = {isa = PBXFileReference; name = "_lib.amcharts.xy.js"; path = "../assets/html/_lib/_lib.amcharts.xy.js"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		9FF15A3AFAF44A6EBE39BAB5 /* _lib.d3.js */ = {isa = PBXFileReference; name = "_lib.d3.js"; path = "../assets/html/_lib/_lib.d3.js"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		9B0F7825C129443DB13DC449 /* _lib.d3.scale.js */ = {isa = PBXFileReference; name = "_lib.d3.scale.js"; path = "../assets/html/_lib/_lib.d3.scale.js"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		C1FF4CAB858143A0A4475EFD /* _lib.lodash.min.js */ = {isa = PBXFileReference; name = "_lib.lodash.min.js"; path = "../assets/html/_lib/_lib.lodash.min.js"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		9E52B81E3C9142C597B7CD34 /* _lib.moment.min.js */ = {isa = PBXFileReference; name = "_lib.moment.min.js"; path = "../assets/html/_lib/_lib.moment.min.js"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		3A8472F4DEB34D078B6F69A6 /* styles.css */ = {isa = PBXFileReference; name = "styles.css"; path = "../assets/html/_style/styles.css"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		DB03EC2E0D1E45CEA8AB1BAF /* initChart.html */ = {isa = PBXFileReference; name = "initChart.html"; path = "../assets/html/amcharts/initChart.html"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F68A8C41A220450F8C75BF0C /* _lib.amcharts.js */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = _lib.amcharts.js; path = ../assets/html/_lib/_lib.amcharts.js; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
