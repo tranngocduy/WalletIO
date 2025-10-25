@@ -1,21 +1,10 @@
-import { Platform, InteractionManager } from 'react-native';
+import { Platform } from 'react-native';
 
 import fs from 'react-native-fs';
 
 export const isIOS = !!(Platform.OS === 'ios');
 
 export const timeoutSleep = (ms: number) => new Promise((res) => setTimeout(res, ms));
-
-export const runAfterInteractions = (fn: Function, time: number = 0) => {
-  let timer: NodeJS.Timeout;
-
-  InteractionManager.runAfterInteractions(() => {
-    timer = setTimeout(() => {
-      if (!!fn && (typeof (fn) === 'function')) fn();
-      clearTimeout(timer);
-    }, time);
-  });
-}
 
 export const sourceHTMLByPlatform = () => {
   const source = { uri: `${fs.MainBundlePath}/initChart.html` };

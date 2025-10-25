@@ -17,7 +17,7 @@ export const WebsocketProvider = () => {
 
   const _onMessage = event => {
     const data = parseDataToObject(event?.data);
-    bo_symbolPriceSignal.value = { open_time: data?.E, close: data.c, high: data.h, low: data.l, volume: data.v };
+    bo_symbolPriceSignal.value = { open_time: data?.E, close: +data.c, high: +data.h, low: +data.l }; //volume: +data.v
   }
 
   const _loadSocket = () => {

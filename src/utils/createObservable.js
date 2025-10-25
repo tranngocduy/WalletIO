@@ -51,7 +51,7 @@ class WebsocketWrapper {
 }
 
 export const createObservable = () => {
-  const WEBSOCKET_ENDPOINT = `wss://stream.binance.com:9443/ws/btcusdt@ticker`;
+  const WEBSOCKET_ENDPOINT = `wss://stream.binance.com:9443/ws/trxusdt@ticker`;
 
   const socket = new WebsocketWrapper(WEBSOCKET_ENDPOINT);
 
